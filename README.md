@@ -24,42 +24,56 @@
 
 有线（锐捷）使用方式：浏览器打开任意网站，被跳转到登录界面，账号输入学号/教职工号，并输入密码登录。
 
-相关链接：[校园网自助服务系统](http://172.26.156.156:8080/selfservice/)（初始密码为身份证后8位）
+相关链接：[校园网自助服务系统](http://172.26.156.156:8080/selfservice/)
+
+（初始密码为身份证后8位）
 
 * VPN
 
 哈工大 VPN 为 EasyConnect，由深信服科技股份有限公司提供服务。VPN 可以使用户在非校园网环境使用内网内容（如选课等）。在哈工大威海仅有一种使用 VPN 的方式：
 
-方式为直接登录 [ivpn.hitwh.edu.cn](https://ivpn.hitwh.edu.cn/)，经过统一身份认证登录后在“快速访问”处点击“更多”，输入要访问的校园网地址即可访问。
+方式为直接登录 [ivpn.hitwh.edu.cn](https://ivpn.hitwh.edu.cn/)，经过统一身份认证登录后,点击你所需要的网址。
 
+vpn地址的方式：
 
+以www.hitwh.edu.cn/xxxxxxx为例,域名类的链接
+
+http://(将域名中的.更换为-)-s.ivpn.hitwh.edu.cn:8118/xxxxxxx
+
+http://www-hitwh-edu-cn-s.ivpn.hitwh.edu.cn:8118/xxxxxxx
+
+以222.194.15.1:7777/zhxt_bks/zhxt_bks.html为例,ip地址类的链接
+
+http://(将域名中的.更换为-)-p.ivpn.hitwh.edu.cn:8118/zhxt_bks/zhxt_bks.html
+
+http://222-194-15-1-7777-p.ivpn.hitwh.edu.cn:8118/zhxt_bks/zhxt_bks.html
 
 ## 二、网站
 
 ### 信息类
 
 * [www.hitwh.edu.cn](https://www.hitwh.edu.cn/)：
-哈工大首页。
+哈工大威海首页。
 
-* [www.hit.edu.cn/xl/list.htm](https://www.hit.edu.cn/xl/list.htm)（校历）：
-哈工大校历。
+* [jwc.hitwh.edu.cn/xlxz/list.htm](http://jwc.hitwh.edu.cn/xlxz/list.htm)（校历）：
+哈工大威海校历。
 
-* [today.hit.edu.cn](http://today.hit.edu.cn/)（今日哈工大）：
-今日哈工大，即哈尔滨工业大学校内综合信息网，整合了各个院系、部处的公告、快讯、活动预告、就业信息等。
+* [today.hitwh.edu.cn](http://today.hitwh.edu.cn/)（今日工大）：
+今日工大，即哈尔滨工业大学(威海)校内综合信息网，整合了各个院系、部处的公告、快讯、活动预告、就业信息等。
 
-* [map.hit.edu.cn](https://map.hit.edu.cn/)（校园地图）：
+//* [map.hit.edu.cn](https://map.hit.edu.cn/)（校园地图）：
 查看各校区地图与设施介绍等。
 
-* [ito.hit.edu.cn](http://ito.hit.edu.cn/)（网络与信息中心）：
+//* [ito.hit.edu.cn](http://ito.hit.edu.cn/)（网络与信息中心）：
 发布网络信息公告、维护通知。
 
-* [homepage.hit.edu.cn](http://homepage.hit.edu.cn/)（教师个人主页）：
+//* [homepage.hit.edu.cn](http://homepage.hit.edu.cn/)（教师个人主页）：
 教师个人主页，可以在此系统查看部分教师个人信息。
 
-* [jwc.hit.edu.cn](http://jwc.hit.edu.cn/)（本科生院教务处）：
+* [jwc.hitwh.edu.cn](http://jwc.hitwh.edu.cn/)（本科生院教务处）：
 本科生部分教务信息发布网站，如选课通知、放假安排等。
 
-* [http://hitgs.hit.edu.cn/](http://hitgs.hit.edu.cn/)（研究生院）：
+* [http://yjsc.hitwh.edu.cn//](http://yjsc.hitwh.edu.cn/)（研究生院）：
 研究生部分培养与教务等信息发布网站。
 
 ### 服务类
