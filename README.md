@@ -1,4 +1,4 @@
-# 哈工大网络资源一览（施工中）
+# 哈工大网络资源一览（施工度50%）
 
 ## 注意
 
@@ -144,7 +144,7 @@ http://222-194-15-1-7777-p.ivpn.hitwh.edu.cn:8118/zhxt_bks/zhxt_bks.html
 //* [exam.hit.edu.cn](http://exam.hit.edu.cn/)（网络在线考试系统（内网））：
 部分课程的考试、某些知识问答等在这里进行。
 
-//* [clop.hit.edu.cn](http://clop.hit.edu.cn/)（一区）、[clop2.hit.edu.cn](http://clop2.hit.edu.cn/)（二区）（物理实验中心（内网））
+//* [10.246.255.9/index.html](http://10.246.255.9/index.html)（物理实验中心（内网））
 大物实验预约平台。
 
 //* [cloc.hit.edu.cn](http://cloc.hit.edu.cn/)（一区）、[cloc2.hit.edu.cn](http://cloc2.hit.edu.cn/)（二区）（化学实验中心选课平台）：
