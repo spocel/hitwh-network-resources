@@ -24,7 +24,7 @@
 
 有线（锐捷）使用方式：浏览器打开任意网站，被跳转到登录界面，账号输入学号/教职工号，并输入密码登录。
 
-相关链接：[校园网自助服务系统](http://172.26.156.156:8080/selfservice/)
+相关链接：[校园网自助服务系统](http://172.26.156.156:8080/selfservice/)（初始密码为身份证后8位）
 
 * VPN
 
@@ -38,7 +38,7 @@
 
 ### 信息类
 
-* [www.hit.edu.cn](https://www.hit.edu.cn/)：
+* [www.hitwh.edu.cn](https://www.hitwh.edu.cn/)：
 哈工大首页。
 
 * [www.hit.edu.cn/xl/list.htm](https://www.hit.edu.cn/xl/list.htm)（校历）：
